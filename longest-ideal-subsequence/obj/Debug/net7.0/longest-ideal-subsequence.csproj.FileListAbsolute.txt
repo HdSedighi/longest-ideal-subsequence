@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\bin\Debug\net7.0\longest-ideal-subsequence.exe
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\bin\Debug\net7.0\longest-ideal-subsequence.deps.json
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\bin\Debug\net7.0\longest-ideal-subsequence.runtimeconfig.json
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\bin\Debug\net7.0\longest-ideal-subsequence.dll
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\bin\Debug\net7.0\longest-ideal-subsequence.pdb
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.dll
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\refint\longest-ideal-subsequence.dll
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.pdb
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\longest-ideal-subsequence.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\longest-ideal-subsequence\longest-ideal-subsequence\obj\Debug\net7.0\ref\longest-ideal-subsequence.dll
